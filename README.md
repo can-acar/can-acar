@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 
-<h3 align="center">A Software Engineer at TÜSEB</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <h4 align="center"> I ❤ Open-Source</h4>
 
