@@ -6,7 +6,7 @@
 
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=can-acar&show_icons=true&locale=en" alt="can-acar" /></p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=can-acar&" alt="can-acar" /></p>
 
