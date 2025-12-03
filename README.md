@@ -7,7 +7,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=can-acar&theme=radical)](https://git.io/streak-stats)        
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=can-acar&theme=radical" alt="GitHub Streak" /></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=can-acar&theme=merko&locale=de&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ### Skills
